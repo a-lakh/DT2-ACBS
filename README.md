@@ -119,7 +119,7 @@ For **Scene Graph Classification (SGCls)**:
 ``` bash
 python test.py --test_task 2
 ```
-For **Scene Graph Detection (SGDet)**:
+For **Scene Graph Detection (SGDet)**: [Currenlty Not Supported]
 ``` bash
 python test.py --test_task 3
 ```
